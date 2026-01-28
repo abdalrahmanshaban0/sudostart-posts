@@ -1,6 +1,6 @@
 ---
 date: 2026-01-28
-draft: true
+draft: false
 title: How to Use Arch Linux with Secure Boot Using rEFInd (Dual-Boot Guide)
 description: A complete Arch Linux Secure Boot guide using rEFInd. For dual boot with Windows and gaming with Secure Boot support. Covers MOK enrollment and kernel signing
 categories:
@@ -29,6 +29,8 @@ In this guide, you’ll learn **how to run Arch Linux with Secure Boot enabled u
 - Prefer managing your own Machine Owner Keys (MOK)
 
 By the end of this guide, you’ll have a Secure Boot–enabled Arch Linux system that boots reliably using **rEFInd**, without disabling firmware security features.
+
+{{< inarticle-ad >}}
 
 ---
 
@@ -98,6 +100,7 @@ done
 sudo chmod +x /etc/initcpio/post/kernel-sbsign
 ```
 
+{{< inarticle-ad >}}
 
 ## Pacman hook for rEFInd
 Create this file `/etc/pacman.d/hooks/refind.hook`:
