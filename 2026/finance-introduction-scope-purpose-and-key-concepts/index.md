@@ -10,10 +10,9 @@ slug: finance-introduction-scope-purpose-and-key-concepts
 comments: true
 authors:
   - "abdo"
-cover:
-  image: cover.webp
-  alt: ""
+featuredImage: cover.webp
 ---
+
 Finance is not just about money—it is about **decision-making under uncertainty**. Every individual, business, and government faces choices about earning, spending, saving, and investing resources. Finance provides the framework for making those choices wisely.
 
 From planning household budgets to managing billion-dollar corporations and national economies, finance influences nearly every aspect of modern life. This article offers a clear and comprehensive **introduction to finance**, explaining its **scope**, **purpose**, and **key concepts** in a simple and structured way.
