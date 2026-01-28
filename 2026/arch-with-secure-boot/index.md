@@ -30,6 +30,8 @@ In this guide, you’ll learn **how to run Arch Linux with Secure Boot enabled u
 
 By the end of this guide, you’ll have a Secure Boot–enabled Arch Linux system that boots reliably using **rEFInd**, without disabling firmware security features.
 
+{{< inarticle-ad >}}
+
 ---
 
 ## What You’ll Need 
@@ -98,6 +100,7 @@ done
 sudo chmod +x /etc/initcpio/post/kernel-sbsign
 ```
 
+{{< inarticle-ad >}}
 
 ## Pacman hook for rEFInd
 Create this file `/etc/pacman.d/hooks/refind.hook`:
