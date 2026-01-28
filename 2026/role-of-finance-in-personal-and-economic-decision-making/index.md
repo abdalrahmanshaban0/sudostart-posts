@@ -8,7 +8,8 @@ categories:
 tags:
 slug: role-of-finance-in-personal-and-economic-decision-making
 comments: true
-authors: abdo
+authors:
+  - "abdo"
 featuredImage: cover.webp
 ---
 
