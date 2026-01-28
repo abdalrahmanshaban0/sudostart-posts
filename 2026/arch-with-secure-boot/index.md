@@ -1,6 +1,6 @@
 ---
 date: 2026-01-28
-draft: true
+draft: false
 title: How to Use Arch Linux with Secure Boot Using rEFInd (Dual-Boot Guide)
 description: A complete Arch Linux Secure Boot guide using rEFInd. For dual boot with Windows and gaming with Secure Boot support. Covers MOK enrollment and kernel signing
 categories:
