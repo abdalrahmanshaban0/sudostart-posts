@@ -8,7 +8,7 @@ categories:
 tags:
 slug: introduction-to-denial-of-service-dos-attacks
 authors:
-  - "abdo"
+  - abdo
 comments: true
 featuredImage: cover.webp
 ---
