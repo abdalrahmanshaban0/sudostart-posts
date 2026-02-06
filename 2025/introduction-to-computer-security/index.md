@@ -13,9 +13,9 @@ tagstags:
   - data protection
   - security best practices
 slug: introduction-to-computer-security
-comments: true
 authors:
-  - "abdo"
+  - abdo
+comments: true
 featuredImage: cover.webp
 ---
 

@@ -5,11 +5,12 @@ title: How to create packages to the AUR - Arch User Repository
 description: A complete guide on writing PKGBUILDs, testing them, and publishing software to the AUR for Arch Linux users. Beginner-friendly and SEO-optimized
 categories:
   - Linux
+  - Software
 tags:
   - Linux
-authors:
-  - "abdo"
 slug: creating-packages-for-the-aur
+authors:
+  - abdo
 comments: true
 featuredImage: cover.webp
 ---
@@ -193,6 +194,7 @@ Both `PKGBUILD` and `.SRCINFO` must be committed to your Git repository.j
     
 - Not testing in a chroot → package may break for other users.
     
+
 ## 🎯 Final Thoughts
 
 Publishing your software on the AUR is one of the best ways to give back to the Arch community. Once you go through the process once or twice, it becomes straightforward.

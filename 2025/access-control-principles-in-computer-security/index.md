@@ -8,7 +8,7 @@ categories:
 tags:
 slug: "access-control-principles-in-computer-security"
 authors:
-  - "abdo"
+  - abdo
 comments: true
 featuredImage: cover.webp
 ---

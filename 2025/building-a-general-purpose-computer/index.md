@@ -10,7 +10,7 @@ tags:
   - Projects
 slug: building-general-purpose-computer-1
 authors:
-  - "abdo"
+  - abdo
 featuredImage: "featured.webp"
 description: Learn how to build a general-purpose computer completely from scratch — starting with just NAND gates. This hands-on guide introduces the beauty of abstraction, logic gates, and Boolean functions to reveal how hardware and software come together to form modern computers.
 ---

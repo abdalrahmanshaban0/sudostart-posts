@@ -1,15 +1,18 @@
 ---
 title: "How to Contribute to Open Source: A Beginner-Friendly Guide"
 date: 2025-09-27
-description: "Step-by-step beginner guide on how to contribute to open source projects using GitHub. Learn setup, issues, pull requests, and best practices."
+description: Step-by-step beginner guide on how to contribute to open source projects using GitHub. Learn setup, issues, pull requests, and best practices.
 draft: false
 comments: true
-tags: ["open source", "contribute to open source", "GitHub", "beginner guide", "C++", "software development"]
-categories: ["Linux", "Programming"]
-slug: "how-to-contribute-to-open-source"
+tags:
+  - GitHub
+categories:
+  - Linux
+  - Software
+slug: how-to-contribute-to-open-source
 authors:
-  - "abdo"
-featuredImage: "cover.webp"
+  - abdo
+featuredImage: cover.webp
 ---
 
 Open-source software powers the world — from Linux to browsers, frameworks, and libraries. But open source isn’t just about using free tools; it’s about **collaboration** and **giving back** to the community.  

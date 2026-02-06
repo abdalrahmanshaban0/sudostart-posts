@@ -1,14 +1,15 @@
 ---
-date: '2025-09-22T17:16:18+03:00'
+date: 2025-09-22T17:16:18+03:00
 draft: false
-title: 'Make your Linux terminal look cool'
-description: 'Learn how to make your Linux terminal look amazing with Fish shell, Kitty terminal, Fastfetch, Btop, and customizations like cursor animations, colorful output, and improved commands display.'
-categories: ["Linux"]
-tags: ["Linux", "shell", "terminal customization", "fish shell", "kitty terminal", "alacritty", "btop", "fastfetch"]
+title: Make your Linux terminal look cool
+description: Learn how to make your Linux terminal look amazing with Fish shell, Kitty terminal, Fastfetch, Btop, and customizations like cursor animations, colorful output, and improved commands display.
+categories:
+  - Linux
+tags:
 comments: true
+featuredImage: cover.webp
 authors:
-  - "abdo"
-featuredImage: "cover.webp"
+  - abdo
 ---
 ## Fish shell
 Why use Fish? Because it’s user-friendly, comes with auto suggestions, syntax highlighting, and is much more modern compared to Bash or zsh.  

@@ -4,11 +4,11 @@ draft: false
 title: "Blockchain Simply Explained: A Beginner’s Guide to Understanding the Technology"
 description: Blockchain is one of the most talked-about technologies of the last decade, yet it often feels confusing and overly technical. In reality, blockchain is much simpler than it sounds. This guide explains blockchain in plain language, helping you understand what it is, how it works, and why it matters.
 categories:
-  - Finance
+  - Crypto Trading
 tags:
 slug: blockchain-explained
 authors:
-  - "abdo"
+  - abdo
 comments: true
 featuredImage: cover.webp
 ---

@@ -10,7 +10,7 @@ tags:
     - Hyprland
 slug: "arch-linux-guide"
 authors:
-  - "abdo"
+  - abdo
 featuredImage: "cover.webp"
 ---
 ## Start with the programs

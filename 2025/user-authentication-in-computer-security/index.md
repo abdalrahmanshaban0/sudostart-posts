@@ -7,9 +7,9 @@ categories:
   - Computer Security
 tags:
 slug: "user-authentication-in-computer-security"
-comments: true
 authors:
-  - "abdo"
+  - abdo
+comments: true
 featuredImage: cover.webp
 ---
 In today’s digital world, securing online accounts and sensitive data is more important than ever. At the heart of this protection lies **user authentication**—the process of verifying the identity of a person or system before granting access. Understanding authentication is key for both users and developers to maintain strong security practices.

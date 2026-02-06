@@ -15,7 +15,7 @@ tags:
   - cybersecurity
 slug: cryptographic-tools-in-computer-security
 authors:
-  - "abdo"
+  - abdo
 comments: true
 featuredImage: cover.webp
 ---

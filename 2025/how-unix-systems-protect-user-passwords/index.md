@@ -10,7 +10,7 @@ tags:
 slug: how-unix-systems-protect-user-passwords
 comments: true
 authors:
-  - "abdo"
+  - abdo
 featuredImage: cover.webp
 ---
 UNIX systems have been around for decades, and one of the reasons for their long-lasting reputation is their strong approach to password security. The **UNIX Password Scheme** is a foundational method that protects user credentials using encryption, hashing, and secure storage techniques. Understanding how it works helps you appreciate why UNIX remains a trusted operating system in cybersecurity.

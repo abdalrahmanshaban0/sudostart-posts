@@ -1,17 +1,21 @@
 ---
-title: "Password Managers | My Setup with KeePassXC, Firefox, and GitHub"
+title: Password Managers | My Setup with KeePassXC, Firefox, and GitHub
 date: 2025-09-24T12:00:00+00:00
-description: "Securely manage passwords on Linux with KeePassXC, Firefox autofill, and a private GitHub repo for syncing your encrypted database."
-tags: ["linux", "password manager", "keepassxc", "firefox", "security", "github"]
-categories: ["Linux", "Productivity"]
+description: Securely manage passwords on Linux with KeePassXC, Firefox autofill, and a private GitHub repo for syncing your encrypted database.
+tags:
+  - linux
+  - keepassxc
+  - security
+categories:
+  - Linux
+  - Productivity
 draft: false
 comments: true
-slug: "password-managers-keepassxc"
+slug: password-managers-keepassxc
 authors:
-  - "abdo"
-featuredImage: "cover.webp"
+  - abdo
+featuredImage: cover.webp
 ---
-
 One of the most important things you can do to keep yourself safe online is to ensure that your passwords are unique in every website or service and also to be hard and difficult to guess or brute force. 
 
 It’s almost impossible to remember every password. So, managing passwords securely is a non-negotiable part of modern digital life.

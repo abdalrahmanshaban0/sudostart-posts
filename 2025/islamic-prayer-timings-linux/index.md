@@ -1,15 +1,21 @@
 ---
-date: '2025-07-06T20:20:00+03:00'
+date: 2025-07-06T20:20:00+03:00
 draft: false
-title: 'Islamic Prayer Timings for Linux'
-description: "Islamic Prayer Timings & Hijri Date daemon for Linux with seamless Waybar integration. Displays a live countdown to the next prayer, shows all daily timings on hover, and sends a notification (with optional user script) at the Adhan."
-categories: ["Linux", "Projects"]
-tags: ["Linux", "Waybar", "Projects"]
+title: Islamic Prayer Timings for Linux
+description: Islamic Prayer Timings & Hijri Date daemon for Linux with seamless Waybar integration. Displays a live countdown to the next prayer, shows all daily timings on hover, and sends a notification (with optional user script) at the Adhan.
+categories:
+  - Linux
+  - Projects
+  - Software
+tags:
+  - Linux
+  - Waybar
+  - Projects
 comments: true
-featuredImage: "featured.webp"
-slug: "islamic-prayer-timings-for-linux"
+featuredImage: featured.webp
+slug: islamic-prayer-timings-for-linux
 authors:
-  - "abdo"
+  - abdo
 ---
 For me, Knowing that 3 hours left until Fajr is more informative than knowing that it's 2 AM now. That was the motivation to create a Linux daemon and waybar custom module for Islamic prayer timings using Aladhan API.
 

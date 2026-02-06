@@ -7,7 +7,7 @@ categories: ["Linux"]
 tags: ["Linux", "Git"]
 slug: "Accessing-Remote-Git-Repositories-on-Linux"
 authors:
-  - "abdo"
+  - abdo
 comments: true
 featuredImage: cover.webp
 ---

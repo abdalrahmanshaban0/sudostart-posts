@@ -4,14 +4,13 @@ draft: false
 title: How to Collaborate Effectively on GitHub for Software Projects
 description: Learn how software teams can collaborate effectively on GitHub with issues, pull requests, branching strategies, and best practices for smooth workflows
 categories:
-  - Programming
+  - Software
 tags:
-  - Projects
   - GitHub
 slug: collaborate-on-github
-comments: true
 authors:
-  - "abdo"
+  - abdo
+comments: true
 featuredImage: cover.webp
 ---
 GitHub has become the go-to platform for software collaboration, whether you’re a small startup team, a university project group, or a large enterprise. But many developers new to GitHub only scratch the surface—pushing code and opening issues—without setting up a proper workflow that helps everyone stay organized and productive.
