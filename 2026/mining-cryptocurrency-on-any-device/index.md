@@ -18,7 +18,7 @@ This guide breaks everything down in plain language and shows you how to get sta
 
 ## What Does “Mining on Any Device” Really Mean?
 
-Mining is the process of using your device’s computing power to secure a blockchain network and earn crypto rewards. Different devices excel at different tasks:
+Mining is the process of using your device’s computing power to secure a [blockchain](/blockchain-explained) network and earn crypto rewards. Different devices excel at different tasks:
 
 - **CPU mining** – Works on almost any computer
     
@@ -87,7 +87,9 @@ Unlike traditional pools that require your GPU or CPU to support a coin’s nati
 2. **Mine with supported algorithms:** Your hardware mines using a compatible algorithm such as **RandomX, Ethash, KawPow, or Autolykos**.
     
 3. **Automatic conversion:** unMineable converts the mined coin into the cryptocurrency you selected and sends it to your wallet.
-    
+
+   >[!TIP] Know more about [**Crypto Wallets**](/what-is-cryptocurrency/#how-to-get-cryptocurrency)
+
 4. **Low fees and easy setup:** Mining fees are minimal, and there’s no need to manage multiple wallets for different coins.
     
 
