@@ -4,7 +4,6 @@ draft: false
 title: "The UNIX Password Scheme: How UNIX Systems Protect User Passwords"
 description: Discover how the UNIX Password Scheme protects user accounts using salted hashing, secure storage, and strong authentication methods.
 categories:
-  - Computer Security
   - Linux
 tags:
 slug: how-unix-systems-protect-user-passwords
