@@ -389,6 +389,12 @@ alias dslrcam="gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -
 
 alias dslrphoto="gphoto2 --capture-image-and-download"
 ```
+
+To preview your webcam in just a window:
+```shell
+ffplay /dev/video0
+```
+
 In OBS studio, add video capture device, this is my settings: 
 ![OBS webcam settings](obs_settings_for_webcam.webp#center)
 In my case, I don't have a capture card, I connect the camera using usb, so the resolution I have is `1024x576` so I add a filer for upscaling to `1920x1080`:
