@@ -299,7 +299,7 @@ paru -S btop
 ```
 #### Image viewer and editor tool
 ```shell
-paru -S swappy
+paru -S swappy satty
 ```
 #### Printing
 ```shell
