@@ -169,6 +169,11 @@ https://github.com/abdalrahmanshaban0/Arch-Dots
 #### Install all your favorite programs from a script
 You may install  some programs or dependencies on demand or don't remember to write then in a single script for installation, a tip for that is to open ~/.bash_history and search for every -S and collect these packages in a script. But first, you must know and choose what these programs are.
 ### Programs
+#### Displays settings
+To configure your monitors in hyperland easily via GUI without manually editing the hypr config you can use `nwg-displays` 
+```shell
+sudo pacman -S nwg-displays
+```
 #### Fonts
 ```shell
 sudo pacman -S noto-fonts noto-fonts-emoji ttf-liberation ttf-jetbrains-mono ttf-hack-nerd ttf-dejavu noto-fonts-cjk
